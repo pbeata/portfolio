@@ -1,4 +1,7 @@
-# portfolio
+# Paul A. Beata
+
+### Data Science Portfolio
+
 _Paul's portfolio website showcasing some recent data science projects_
 
 ## [Project 1: Housing Price Regression Model](https://github.com/pbeata/DSc-Training)
