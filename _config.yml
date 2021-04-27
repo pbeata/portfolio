@@ -21,7 +21,7 @@
 title: Paul A. Beata
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my portfolio site showcasing some recent projects in Data Science.
+  This is a portfolio site showcasing some of my recent Data Science projects.
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
