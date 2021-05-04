@@ -9,3 +9,6 @@ _My portfolio website showcasing some recent data science projects_
 
 View Notebooks in Browser: [Data Preprocessing](projects/housing_data_preprocessing.html) \| [Regression Model](projects/housing_data_regression.html)
 
+## [Project 2: Client Churn Predictor](https://github.com/pbeata/client_churn_predictor)
+
+View Notebook in Browser: [Classification Models](projects/client_churn_model.html)
