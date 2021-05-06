@@ -22,7 +22,6 @@ View Notebooks in Browser: [Data Preprocessing](projects/housing_data_preprocess
 * Employed lasso regression and achieved mean absolute error (MAE) of $14,191 and RMS error of $20,554, where the average house price in the data set was $180,815 (relative MAE = 7.8%) 
 
 ![](images/house_feature_correlation.png)
-
 <!-- ![](images/linear_house_model_results.png) -->
 
 
@@ -38,3 +37,16 @@ View Notebook in Browser: [Classification Models](projects/client_churn_model.ht
 * Using a grid search with 10-fold cross validation on the AdaBoost classifier, we found that the optimal learning rate and number of estimators were 0.25 and 100, respectively: this leads to an accuracy of 82% and similar recall (between 80% and 83%) 
 
 ![](images/roc_curve.png)
+
+
+## [Project 3: Handwritten Number Recognition](https://github.com/pbeata/number_recognition)
+
+View Notebook in Browser: [Neural Net Models](projects/number_recognition.html) |
+
+* Built deep neural networks to perform image recognition and classification of handwritten digits from the MNIST data set.
+* The MNIST data set contains 70,000 handwritten digits split into training and testing sets: for data preprocessing, we generate a third set for validation using a subset (10%) of the training data
+* Each image in the set is comprised of 28x28 grayscale pixels ranging in value from 0 to 255: as part of the data preprocessing, we scale these pixels value to the range of [0, 1] as well
+* For training the deep neural net, we vary the width and depth of the model in search of an optimal solution: tested hidden layers sizes (width) of 8, 16, 32, 64, 128, and 256 and the number of layers in the NN (depth) used were 2, 4, and 8
+* Using four layers in the NN with a size (width) of 256 nodes, we achieve an classification accuracy of 98.1%; meaning, we correctly classified 9,813 handwritten images out of the 10,000 total in the testing data subset  
+
+![](images/number_image.JPG)

@@ -12,3 +12,8 @@ View Notebooks in Browser: [Data Preprocessing](projects/housing_data_preprocess
 ## [Project 2: Client Churn Predictor](https://github.com/pbeata/client_churn_predictor)
 
 View Notebook in Browser: [Classification Models](projects/client_churn_model.html)
+
+## [Project 3: Handwritten Number Recognition](https://github.com/pbeata/number_recognition)
+
+View Notebook in Browser: [Neural Net Models](projects/number_recognition.html)
+
