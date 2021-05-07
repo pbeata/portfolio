@@ -10,3 +10,4 @@ _My portfolio website showcasing some recent data science projects_
 
 ### [Project 3: Handwritten Number Recognition](https://github.com/pbeata/number_recognition)
 
+### [Project 4: CIA Country Analysis and Clustering](https://github.com/pbeata/country_cluster_analysis)
